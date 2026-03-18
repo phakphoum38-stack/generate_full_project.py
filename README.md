@@ -1,0 +1,1 @@
+# generate_full_project.py
